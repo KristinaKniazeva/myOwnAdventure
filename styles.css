@@ -1,0 +1,13 @@
+h1{color: #003312;border:2px  solid #6600cc ;font-size:50px;font-family: fantasy;border-bottom-width: thick;border-bottom-style: dotted ;text-align: center;}
+body{background: #c1ff80;} 
+a{text-decoration: none;}
+a.choice{font-size:30px;
+         color: #6600cc;
+    font-family: cursive;}
+p.attribution{font-size:10px;}
+p.title{font-size: 30;
+        color: #004d1a;text-align: center;}
+img{border-radius: 20px;}
+a.start{font-size: 30px; 
+        color: #003312;}
+a.source{color: crimson;}
